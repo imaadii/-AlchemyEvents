@@ -45,7 +45,7 @@ nav{
 .banner{
     width: 100%;
     height: 500px;
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)) , url(./image/premium_photo-1664474653221-8412b8dfca3e.avif);
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)) , url(./premium_photo-1664474653221-8412b8dfca3e.avif);
     background-position: center;
     background-size: cover;
 }
@@ -191,7 +191,7 @@ form .gender-details .category{
     height: 80px;
     border-radius: 50%;
     padding: 10px;
-    background-image: url(./image/logo.jpg);
+    background-image: url(./logo.jpg);
     background-position: center;
     background-size: cover;
     margin-left: 20px;
